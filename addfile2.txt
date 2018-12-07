@@ -1,0 +1,2 @@
+add file2 for git add test.
+
